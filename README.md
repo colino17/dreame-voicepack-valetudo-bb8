@@ -6,5 +6,5 @@
     Enter the following information in the "Voice packs" section:
         URL: https://github.com/colino17/dreame-voicepack-valetudo-bb8/raw/main/voicebb8.tar.gz
         Language Code: BB8
-        Hash: c3d4b3891966744ce96fcaa0e8303e60
+        Hash: 5d720cb1b7ed021b8df4b6f5ccd5dd8e
     Click "Set Voice Pack"
